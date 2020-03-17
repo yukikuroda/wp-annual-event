@@ -1,0 +1,6 @@
+テーブル作成
+CREATE TABLE `map_setting` (
+)
+
+
+テーブル削除
