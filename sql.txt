@@ -12,7 +12,7 @@ CREATE TABLE `map_setting` (
 
 
 インサート
-INSERT INTO `annual-event`(`title`, `event_day`) VALUES ("イベント名","日付")
+INSERT INTO `annual_event`(`title`, `event_day`) VALUES ("イベント名","日付")
 
 INSERT INTO `map_settings`
 (`name`, `post_num`, `pref`, `address1`, `address2`, `map_url`)
